@@ -1,0 +1,4 @@
+sudo mkfs.ext4 -v /dev/sdb
+export LFS=/mnt/lfs
+sudo mkdir -pv $LFS
+sudo mount -v -t ext4 /dev/sdb $LFS
