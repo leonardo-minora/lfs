@@ -1,500 +1,219 @@
-groovy -version
-clear
-cd Documents/Projetos/Maxmeio/ProjectManager/src/
-grails
-cd ~/Documents/Projetos/IFRN/SysRedIN/
-cd ..
-atom SysRedIN
-git clone https://github.com/leonardo-minora/so-redes.git
-ls -la
-cd so-redes
-cp ~/.bash_history 
-cp ~/.bash_history .
-ls -la
-mv .bash_history bash_history-minora
-ls -l
-git status
-git status
-git add bash_history-minora
-git status
-git commit
-git status
-diff ~/.bash_history bash_history-minora 
-diff ~/.bash_history bash_history-minora 
-tail ~/.bash_history 
-tail bash_history-minora 
-vim bash_history-minora 
-diff ~/.bash_history bash_history-minora 
-git status
-git commit -a
-git status
-git pgit push
-git push
-ls -la ~/
-vim bash_history-minora 
-git status 
-cd ~/Documents/src/android/
-ls -l
-open ~/Desktop/Aplicacoes/Android/eclipse/Eclipse.app
-open ~/Desktop/Aplicacoes/Android/eclipse/Eclipse.app
-open ~/Desktop/Aplicacoes/Android/eclipse/Eclipse.app
-atom ~/Documents/Projetos/Maxmeio/ProjectManager/wiki
-ssh minora@diatinf.ifrn.edu.br
-cd ~/Documents/src/grails/
-clear
-grails create-app teste
-cd teste/
-grails
-cd ~/Documents/Projetos/Maxmeio/ProjectManager/
-cd src/
-grails
-cd ~/Documents/orientacao/sistemas/
-ls -l
-mkdir Italo-Avaliacao
-cd Italo-Avaliacao/
-git clone https://italolgm@bitbucket.org/italolgm/italo_tcc.git/wiki
-git clone https://bitbucket.org/italolgm/italo_tcc.git/wiki
-cd wiki/
-git pull
-clear
-atom ~/Documents/Projetos/Maxmeio/ProjectManager/src
-cat ~/.netrc 
-clear
-cat .git/config 
-cat ~/Documents/Projetos/Maxmeio/ProjectManager/src/.git/config 
-cd Downloads/
-unrar x legendas_tv_correcao_20140412151010.rar 
-clear
-cd Desktop/Dropbox/IFRN/Comissao_de_Horarios/
-ls -l
-cd 2014.1/
-vim ~/.bash_profile 
-cd
-ls -l
-cd teste/
-ls -l
-rm -rf teste
-ls -la
-git clone git@heroku.com:maxmeio-project-manager.git -o heroku
-ssh git@heroku.com:maxmeio-project-manager.git -o heroku
-ssh git@heroku.com:maxmeio-project-manager.git 
-open git@heroku.com:maxmeio-project-manager.git
-git
-man git
-man git
-brew install heroku
-heroku 
-heroku auth
-heroku auth:login
-ls -la ~/ | grep netrc
-chmod 0600 ~/.netrc 
-ls -la ~/ | grep netrc
-cat ~/.netrc 
-heroku auth:login
-cd Desktop/Dropbox/IFRN/Comissao_de_Horarios/2014.1/
-ls -l
-cd horarios
 ls -l
 clear
-ls -l
-zip -9 versao-10/professores.zip horarios-2014.1-v10-professores.pdf 
-zip -9 versao-10/turmas.zip horarios-2014.1-v10-turmas.pdf 
-zip -9 versao-10/salas.zip horarios-2014.1-v10-salas.pdf 
-rm *pdf
-ls -l
-rm *zip
-ls -l
-zip -r9 horarios.zip versao-10
-sftp minora@diatinf.ifrn.edu.br
-ssh minora@diatinf.ifrn.edu.br
-ssh minora@diatinf.ifrn.edu.br
-cat ~/.netrc 
-cat ~/.netrc 
-cd ~/Documents/Projetos/Maxmeio/ProjectManager/src/
-git checkout mastar
-git checkout master
-git pull
-git chekout issue15
-git checkout issue15
-git add .
-git status
-git commit
-git checkout master
-git pull
-cat .git/config 
-git remote add heroku git@heroku.com:maxmeio-project-manager.git
-git push heroku master 
-vim ~/.netrc 
-git push heroku master 
-git push heroku master 
-cat ~/.netrc 
-git push heroku master 
-cat ~/.netrc 
-cd Desktop/Dropbox/IFRN/Comissao_de_Horarios/2014.1/horarios/
-ls -l
-rm versao-10/*.zip
-ls -l versao-10/
-zip -9 versao-10/professores.zip horarios-professores-2014.1-v10.pdf 
-zip -9 versao-10/salas.zip horarios-salas-2014.1-v10.pdf 
-zip -9 versao-10/turmas.zip horarios-turmas-2014.1-v10.pdf 
-zip -r9 horarios.zip versao-10
-open horarios-salas-2014.1-v10.pdf 
-ssh minora@diatinf.ifrn.edu.br
-ssh minora@diatinf.ifrn.edu.br
-ssh minora@diatinf.ifrn.edu.br
-ssh minora@diatinf.ifrn.edu.br
-cd Desktop/Dropbox/IFRN/Comissao_de_Horarios/2014.1/horarios/
-ls -l
-open horarios-professores-2014.1-v10.pdf 
-open horarios-turmas-2014.1-v10.pdf 
-ls -l
-rm horarios.zip 
-ls -la
-zip -r9 horarios.zip versao-10
-sftp minora@diatinf.ifrn.edu.br
-ssh minora@diatinf.ifrn.edu.br
-ssh minora@diatinf.ifrn.edu.br
-cd /
-ka
-la
-xs
-cd
-ssh minora@diatinf.ifrn.edu.br
-ping diatinf.ifrn.edu.br
-ssh minora@diatinf.ifrn.edu.br
-ssh minora@diatinf.ifrn.edu.br
-pwd
-cd Desktop/Dropbox/IFRN/Comissao_de_Horarios/2014.1/
-ls -l
-cd horarios
-ls -l
-zip -9 versao-10/turmas.zip horarios-turmas-2014.1-v10.pdf 
-zip -9 versao-10/professores.zip horarios-professores-2014.1-v10.pdf 
-zip -9 versao-10/salas.zip horarios-salas-2014.1-v10.pdf 
-ls -l
-zip -r9 horarios.zip versao-10
-sftp minora@diatinf.ifrn.edu.br
-ssh minora@diatinf.ifrn.edu.br
-cd Documents/Projetos/Maxmeio/ProjectManager/src/
-grails
-brew search go
-brew info go
-ssh minora@diatinf.ifrn.edu.br
-ssh minora@54.207.97.24
-ssh minora@54.207.97.24
-ssh minora@diatinf.ifrn.edu.br
-ssh minora@54.207.97.24
-ssh-add --help
-ssh-add -l
-ssh-add ~/Downloads/privatekey.pem 
-cd
-ls -la .ssh/
-ls -l
-ls -la .ssh
-cat .ssh/known_hosts 
-ssh-keyscan --help
-ssh-add --help
-ssh-add -d 54.207.97.24
-ssh-add -l
-ssh-add -l .ssh/known_hosts 
-ssh-add ~/Downloads/privatekey.pem 
-ls -l Downloads/ | grep pem
-mv Downloads/privatekey.pem .
-chmod 0644 privatekey.pem 
-ssh-add privatekey.pem 
-cat privatekey.pem 
-chmod 600 privatekey.pem 
-ssh -i privatekey.pem -l root 54.207.97.24
-ssh -i privatekey.pem -l minora 54.207.97.24
-ssh minora@54.207.97.24
-cat .ssh/known_hosts 
-vim .ssh/known_hosts 
-ssh --help
-man ssh
-mv privatekey.pem .ssh/projectmanager.pem
-ssh -i .ssh/projectmanager.pem -l minora 54.207.97.24
-vim .ssh/known_hosts 
-ssh -i .ssh/projectmanager.pem minora@54.207.97.24
-pwd
-javac Teste.java 
-javac Teste.java 
-javac Teste.java 
-javac Teste.java 
-javac Teste.java 
-cd Documents/Projetos/Maxmeio/ProjectManager/src/
-git status
-df -h
+cat /etc/apt/sources.list
+sudo apt-get update
+apt-get update
+su
+sudo apt-get update
+su 
+sudo apt-get update
+su 
+sudo apt-get update
+su
+sudo apt-get update
+mount
 sudo su
+celar
 clear
-cd ~/Documents/Projetos/IFRN/SysRedIN/
-ls -l
-atom .
-cd ~/Desktop/disciplina\ ArqSoft/
-ls -l
-zip 2014.1-SysRedIN.asta-v2.zip SysRedIN.asta
-ls -l
-pwd
-ls -la
-rm teste.*
-ls -la
-gvm update
-gvm selfupdate
-gvm offline
-gvm offline false
-gvm help
-gvm offline disable
-gvm selfupdate
-brew update
-brew list
-brew update mplayer
-brew upgrade mplayer
-brew upgrade openssl
-brew list
-brew upgrade libpng
-brew upgrade heroku-toolbelt
-brew upgrade git
-ruby -version
-ruby
-ruby --version
-gvm list
-gvm current ruuby
-gvm current ruby
-gvm ilst ruby
-gvm list ruby
-brew list 
-whereis ruby
-echo $PATH
-brew info ruby
+sudo apt-get update
+sudo apt-get install git
+sudo apt-get upgrade
+sudo reboot
+sudo lsdev
+lspci 
+lspci -v
 clear
-cd Documents/src/
-ls -l
-cd Workspace.Eclipse
-ls -la
-rm -rf .DS_Store .metadata
-ls -la
-cd ..
-ssh minora@www3.ifrn.edu.br
-groovy
-groovysh
-cat .netrc
-cd Documents/Projetos/
-mkdir Potigol
-cd potigol
-git clone https://github.com/potigol/potigol-grammar.git
-javac
-javac --version
-javac -version
-whereis javac
-ls -l /usr/bin/ | grep java
-ls -l /Users/
-ls -l /usr/local/Cellar/
-cd Desktop/Dropbox/IFRN/Comissao_de_Horarios/2014.1/timetables/
-ls -l
-zip -r9 diac.zip diac
-sftp minora@diatinf.ifrn.edu.br
-ssh minora@diatinf.ifrn.edu.br
-groovysh
-groovysh
+lsblk 
+ld
+ld -verbose
+ld -verbose | grep SEARCH
+bison
+whereis awk
+ls -l /usr/bin/ | grep awk
+vim /etc/alternatives/awk
+vi /etc/alternatives/awk
+ls -l /etc/alternatives/
+ls -l /etc/alternatives/ | grep awk
+ls -l /usr/bin/ | grep awk
+mawk --version
+mawk --help
+man mawk 
+whereis sh
+ls -l /bin/ | grep sh
+sudo apt-get install tar
 clear
-cd Documents/src/
-mkdir groovy
-cd groovy/
-mkdir com
-mkdir com/apress
-mkdir com/apress/bgg
-groovy com/apress/bgg/Todo.groovy 
-groovy com/apress/bgg/Todo.groovy 
-groovy com/apress/bgg/Todo.groovy 
-groovy com/apress/bgg/Todo.groovy 
-groovy com/apress/bgg/Todo.groovy 
-groovy com/apress/bgg/Todo.groovy 
-groovy com/apress/bgg/Todo.groovy 
-groovy com/apress/bgg/Todo.groovy 
-groovy com/apress/bgg/Todo.groovy 
-groovy com/apress/bgg/Todos.groovy 
-groovy com/apress/bgg/Todos.groovy 
-groovysh
-groovysh
-cd
-ssh minora@54.207.97.24
-ls -la .ssh/
-ssh -i ~/.ssh/projectmanager.pem 54.207.97.24
-ssh leonardo@54.207.97.24
-vim .ssh/known_hosts 
-vim .ssh/id_rsa
-vim .ssh/id_rsa.pub 
-clear
-pwd
-chmod 400 .ssh/projectmanager.pem 
-ls -l .ssh/
-ssh -i .ssh/projectmanager.pem minora@54.207.97.24
-ssh -v -i .ssh/projectmanager.pem minora@54.207.97.24
-ssh -v -i .ssh/projectmanager.pem ubuntu@54.207.97.24
-ssh ubuntu@54.207.97.24
-cat .ssh/projectmanager.pem 
-cat .ssh/projectmanager.pem 
-clear
-ssh -v -i .ssh/projectmanager.pem ubuntu@54.207.97.24
-ssh -v -i .ssh/projectmanager.pem ubuntu@54.207.97.24
-ssh -v -i .ssh/projectmanager.pem ubuntu@54.207.97.24
-clear
-ssh -v -i .ssh/projectmanager.pem ubuntu@54.207.97.24
-ssh -v -i .ssh/projectmanager.pem ubuntu@54.207.97.24
-ssh -v -i .ssh/projectmanager.pem ubuntu@54.207.97.24
+lsblk 
+sufo apt-get install mkfs
+sudo apt-get install mkfs
+sudo apt-cache mkfs
+sudo apt-cache search mkfs
+sudo mkfs.ext4 -v /dev/sdb
+lsblk 
+export LFS=/mnt/lfs
+mkdir -pv $LFS
+sudo mkdir -pv $LFS
+sudo mount -v -t ext4 /dev/sdb $LFS
+mount
+mkdir -v $LFS/sources
 whoami
-cat .netrc 
-cd Downloads/
-ls -l
-tar -x atlassian-jira-6.2.7-war.tar 
-ifconfig
-ls -l
-rm horarios.zip 
-zip -r9 horarios.zip versao-12
-sftp minora@diatinf.ifrn.edu.br
-cd ~/Desktop/Dropbox/IFRN/Comissao_de_Horarios/2014.1/horarios/
+sudo chown minora:minora $LFS
+mkdir -v $LFS/sources
+ls -l /mnt/
+ls -l /mnt/lfs/
+ls -l /mnt/lfs/sources/
+ls -la /mnt/lfs/sources/
+ls -la /mnt/lfs/
+ls -la /mnt/lfs/lost+found/
+sudo ls -la /mnt/lfs/lost+found/
+sudo rm -rf /mnt/lfs/lost+found
+rm -rf $LFS/sources
+ls -l $LFS
+ls -la $LFS
+mkdir /mnt/lfs/sources
+chmod -v a+wt /mnt/lfs/sources
+sudo apt-get install wget
 clear
+wget http://www.linuxfromscratch.org/lfs/view/stable/wget-list
 ls -l
-zip -9r hoarios.zip versao-12
-zip -t horarios.zip 
-zip --help
-zip -T horarios.zip 
-zip -h2
-sftp minora@diatinf.ifrn.edu.br
-ssh minora@diatinf.ifrn.edu.br
-groovysh
-groovysh
-cd Downloads/
-cd alunos/
-groovy converter.groovy 
-groovy converter.groovy 
-groovy converter.groovy 
-groovy converter.groovy 
-groovy converter.groovy 
-groovy converter.groovy 
-groovy converter.groovy 
-groovy converter.groovy 
-groovy converter.groovy 
-groovy converter.groovy 
-groovy converter.groovy 
-groovy converter.groovy 
-groovy converter.groovy 
-groovy converter.groovy 
-groovy converter.groovy 
-groovy converter.groovy 
-groovy converter.groovy 
-groovy converter.groovy 
-groovy converter.groovy 
-groovy converter.groovy 
-groovy converter.groovy 
-groovy converter.groovy 
-groovy converter.groovy 
-groovy converter.groovy 
-groovy converter.groovy 
-groovy converter.groovy 
-groovy converter.groovy 
-groovy converter.groovy 
-groovy converter.groovy 
-groovy converter.groovy 
-groovy converter.groovy 
-groovy converter.groovy 
-groovy converter.groovy 
-groovy converter.groovy 
-groovy converter.groovy 
-groovy converter.groovy 
-groovy converter.groovy 
-groovy converter.groovy 
-groovy converter.groovy 
-groovy converter.groovy 
-groovy converter.groovy 
-groovy converter.groovy 
-groovy converter.groovy 
-groovy converter.groovy 
-groovy converter.groovy 
+wget -i -P /mnt/lfs/sources/
+wget -i wget-list -P /mnt/lfs/sources/
+ls -l /mnt/lfs/sources/
+whereis export
+ls -l /usr/lib/
+ls -l /usr/lib/ | grep la
 clear
+ls -l /usr/lib/ | grep libgmp.la
+ls -l /usr/lib/ | grep libmpfr
+ls -l /usr/lib/ | grep libgmp
+ls -l /usr/lib/ | grep libmpc
+ls -l /usr/
+bash -version
+gcc -version
+gcc --version
+sudo apt-cache search gawk
+sudo apt-get install gawk
+gawk --version
+ls -l /usr/bin/ | grep awk
+ln --help
+man ln
+ls -l
+git clone https://github.com/leonardo-minora/lfs.git
+ls -l
+ls -la
+cd lfs
+sudo apt-get install vim
+vim README.md 
+ls -l /mnt/lfs/
+gcc --version
+ls -l /usr/bin/ | grep awk
+sudo ln -svf /usr/bin/gawk /usr/bin/awk
+ls -l /usr/bin/ | grep awk
+sudo apt-cache --help
+sudo apt-cache show binutils
+sudo apt-cache --help
+sudo apt-cache binutils
+sudo apt-cache search binutils
+sudo apt-cache showpkg binutils
+clea
+cleaa
 clear
-groovy converter.groovy 
-groovy converter.groovy 
-groovy converter.groovy 
-groovy converter.groovy 
-groovy converter.groovy 
-groovy converter.groovy 
-groovy converter.groovy 
-groovy converter.groovy 
-groovy converter.groovy 
-groovy converter.groovy 
-groovy converter.groovy 
-groovy converter.groovy 
-groovy converter.groovy 
-groovy converter.groovy 
-groovy converter.groovy 
-groovy converter.groovy 
-groovy converter.groovy 
-groovy converter.groovy 
-groovy converter.groovy 
-groovy converter.groovy 
-groovy converter.groovy 
-groovy converter.groovy 
-groovy converter.groovy 
-groovy converter.groovy 
-groovy converter.groovy 
-groovy converter.groovy 
-groovy converter.groovy 
-groovy converter.groovy 
-groovy converter.groovy 
-groovy converter.groovy 
-groovy converter.groovy 
-groovy converter.groovy 
-groovy converter.groovy 
-groovy converter.groovy 
-groovy converter.groovy 
-groovy AlunoBuilder.groovy 
-groovy AlunoBuilderTest.groovy 
-groovy AlunoBuilderTest.groovy 
-groovy AlunoBuilderTest.groovy 
-groovy AlunoBuilderTest.groovy 
-groovy AlunoBuilderTest.groovy 
-groovy AlunoBuilderTest.groovy 
-groovy AlunoBuilderTest.groovy 
-groovy AlunoBuilderTest.groovy 
-groovy AlunoBuilderTest.groovy 
-groovy AlunoBuilderTest.groovy 
-groovy AlunoBuilderTest.groovy 
-groovy AlunoBuilderTest.groovy 
-groovy AlunoBuilderTest.groovy 
-groovy AlunoBuilderTest.groovy 
-groovy AlunoBuilderTest.groovy 
-groovy AlunoBuilderTest.groovy 
-groovy AlunoBuilderTest.groovy 
-groovy AlunoBuilderTest.groovy 
-groovy AlunoBuilderTest.groovy 
-groovy AlunoBuilderTest.groovy 
-groovy AlunoBuilderTest.groovy 
-groovy AlunoBuilderTest.groovy 
-groovy AlunoBuilderTest.groovy 
-groovy AlunoBuilderTest.groovy 
-groovy AlunoBuilderTest.groovy 
-groovy AlunoBuilderTest.groovy 
-groovy AlunoBuilderTest.groovy 
-groovy AlunoBuilderTest.groovy 
-groovy AlunoBuilderTest.groovy 
-groovy AlunoBuilderTest.groovy 
-groovy AlunoBuilderTest.groovy 
-groovy AlunoBuilderTest.groovy 
-groovy AlunoBuilderTest.groovy 
-groovy AlunoBuilderTest.groovy 
-groovy AlunoBuilderTest.groovy 
-groovy AlunoBuilderTest.groovy 
-groovy AlunoBuilderTest.groovy 
-groovy AlunoBuilderTest.groovy 
-groovy AlunoBuilderTest.groovy 
-groovy AlunoBuilderTest.groovy 
-groovy AlunoBuilderTest.groovy 
-groovy AlunoBuilderTest.groovy 
-groovy AlunoBuilderTest.groovy 
-ssh minora@diatinf.ifrn.edu.br
 echo $PATH
-cd ~/Documents/Projetos/Maxmeio/ProjectManager/src/
-cd
-ls-
+ls -l /usr/bin/ | grep awk
+ls -l /usr/bin/ | grep sh
+ls -l /usr/bin/ | grep bash
+ls -l /bin/ | grep bash
+ls -l /bin/ | grep sh
+ls -
 ls -l
-cd /Users/leonardo ;
+cd /mnt/lfs/sources/
+ls -l
+tar xf binutils-2.24.tar.bz2 
+cd binutils-2.24/
+mkdir -v ../binutils-build
+cd ../binutils-build/
+sudo rm /bin/sh
+sudo ln -vs /bin/bash /bin/sh
+ls -l /bin/
+whois awk
+whois --help
+q
+whereis awk
+whereis yacc
+whereis bison
+sudo apt-cache search yacc
+sudo apt-cache search bison
+sudo apt-get install bison
+whereis yacc
+ls -l /usr/bin/ | grep yacc
+ls -l /etc/alternatives/ | grep yacc
+clear
+../binutils-2.24/configure         --prefix=/tools                --with-sysroot=$LFS            --with-lib-path=/tools/lib     --target=$LFS_TGT              --disable-nls                  --disable-werror
+make
+echo $LFS
+make install
+ls -l /
+ls -l
+ls -l /mnt/lfs/
+mkdir /mnt/lfs/tools
+sudo ln -sv /mnt/lfs/tools /tools
+sudo chown lfs:lfs /tools
+pwd
+ls -l /home/
+sudo chown minora:minora /tools
+make install
+echo $LFS
+ls -l ../
+ls -l /
+cd ..
+rm -rf binutils-build
+ls -la
+ls -la ~/
+cat > ~/.bash_profile << "EOF"
+exec env -i HOME=$HOME TERM=$TERM PS1='\u:\w\$ ' /bin/bash
+EOF
+
+cat > ~/.bashrc << "EOF"
+set +h
+umask 022
+LFS=/mnt/lfs
+LC_ALL=POSIX
+LFS_TGT=$(uname -m)-lfs-linux-gnu
+PATH=/tools/bin:/bin:/usr/bin
+export LFS LC_ALL LFS_TGT PATH
+EOF
+
+cat ~/.bashrc
+echo $PATH
+sudo apt-cache --help
+sudo apt-cache showpkg glibc
+sudo apt-cache search glibc
+man glibc 
+source ~/.bash_profile 
+echo $LFS
+echo $LFS_TGT
+echo $LC_ALL
+mkdir binutils-build
+cd binutils-build/
+sudo apt-cache search shlib
+readelf --help
+readelf -l ld-linux.so.2
+ld --verbose | grep SEARCH
+ld --verbose
+../binutils-2.24/configure         --prefix=/tools                --with-sysroot=$LFS            --with-lib-path=/tools/lib     --target=$LFS_TGT              --disable-nls                  --disable-werror
+MAKE
+make
+echo $LFS_TGT
+make install
+ls -l /tools/bin/
+cat ~/.bashrc
+echo $LFS
+export SO=HOJE
+echo $HOJE
+SO=HOJE
+echo $HOJE
+echo $HOJE
+echo $SO
+cp .bashrc .bashrc_backup
+vim .bashrc_backup 
+su -
+history
